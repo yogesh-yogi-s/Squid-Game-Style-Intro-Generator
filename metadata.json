@@ -1,0 +1,6 @@
+{
+  "name": "Squid Title Studio",
+  "description": "Interactive geometric title card animation studio recreating the Squid Game intro sequence with custom typography, chalk trim-path choreography, synthesized audio, and HD video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
